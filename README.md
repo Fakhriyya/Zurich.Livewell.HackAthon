@@ -1,6 +1,10 @@
 # Zurich.Livewell.HackAthon
 Demo Data Repository For Zurich HackAthon
 
+# Synopsis
+2 Data sources are provided. The first contains daily activity tracking information, provided by 511 members over a timespan of 4 months.
+The second is provided by Kaggle that contains recipes with calorie information attached.
+
 # Contents
 
 2 files are provided for consumption. They are in json format.
